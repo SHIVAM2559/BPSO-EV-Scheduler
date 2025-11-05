@@ -3,7 +3,7 @@
 // // // Input: vehicles.csv with header:
 // // // Vehicle_ID,SOC_init,SOC_req,Arrival_hr,Departure_hr,Capacity_kWh,P_ch_max_kW,P_dis_max_kW
 // // // Outputs: schedule_output.csv, grid_profile.csv
-// Capped version of the scheduler: reports savings capped at 15%
+
 #include <bits/stdc++.h>
 using namespace std;
 using dd = double;
